@@ -6,6 +6,6 @@ Handle: sbd
 
 [![CodeForces Profile](https://cf.leed.at?id=sbd&mini=true)](https://codeforces.com/profile/sbd)
 
-Handle: turkids, 늦참했을때 쓰는 부계정
+Handle: turkids
 
 [![CodeForces Profile](https://cf.leed.at?id=turkids&mini=true)](https://codeforces.com/profile/turkids)
